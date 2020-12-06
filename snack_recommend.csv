@@ -1,0 +1,501 @@
+UserID,SnackID,SnackName,Category,Recommendation Score
+10,135,Rasgulla,Jerky,0.055802166
+15,135,Rasgulla,Jerky,0.05483982
+30,135,Rasgulla,Jerky,0.0539234
+4,135,Rasgulla,Jerky,0.053404003
+5,135,Rasgulla,Jerky,0.05289957
+20,135,Rasgulla,Jerky,0.052784324
+1,135,Rasgulla,Jerky,0.052024007
+3,135,Rasgulla,Jerky,0.05124083
+10,106,Imarti,Bars & Balls,0.050985843
+15,106,Imarti,Bars & Balls,0.049951464
+30,106,Imarti,Bars & Balls,0.04968214
+10,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.04949206
+15,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.049301952
+40,135,Rasgulla,Jerky,0.049108326
+25,135,Rasgulla,Jerky,0.048996538
+5,106,Imarti,Bars & Balls,0.04889956
+4,106,Imarti,Bars & Balls,0.048640013
+30,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.04860294
+20,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.048365355
+20,106,Imarti,Bars & Balls,0.04820156
+4,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.047246993
+1,106,Imarti,Bars & Balls,0.047160894
+5,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.046806306
+3,106,Imarti,Bars & Balls,0.04637447
+1,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.04600984
+3,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.04511398
+40,106,Imarti,Bars & Balls,0.04412508
+25,106,Imarti,Bars & Balls,0.043997735
+40,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.042856634
+25,121,Chhena jalebi,Hard Pretzels Snack Mixes,0.042748928
+10,125,Kheer sagar,Puffs,0.041079283
+15,125,Kheer sagar,Puffs,0.040448606
+30,125,Kheer sagar,Puffs,0.04013014
+4,125,Kheer sagar,Puffs,0.039052397
+20,125,Kheer sagar,Puffs,0.038297474
+5,125,Kheer sagar,Puffs,0.03821653
+1,125,Kheer sagar,Puffs,0.03772837
+3,125,Kheer sagar,Puffs,0.03677267
+10,136,Sandesh,Cookies & Baked Goods,0.035285264
+40,125,Kheer sagar,Puffs,0.034881055
+15,136,Sandesh,Cookies & Baked Goods,0.034843326
+25,125,Kheer sagar,Puffs,0.034780025
+30,136,Sandesh,Cookies & Baked Goods,0.034198374
+4,136,Sandesh,Cookies & Baked Goods,0.03318718
+20,136,Sandesh,Cookies & Baked Goods,0.03275436
+5,136,Sandesh,Cookies & Baked Goods,0.032626957
+1,136,Sandesh,Cookies & Baked Goods,0.03216985
+3,136,Sandesh,Cookies & Baked Goods,0.031456083
+40,136,Sandesh,Cookies & Baked Goods,0.029716402
+25,136,Sandesh,Cookies & Baked Goods,0.029628366
+10,131,Pantua,Crackers & Crisps,0.028876096
+30,131,Pantua,Crackers & Crisps,0.028783709
+15,131,Pantua,Crackers & Crisps,0.028274238
+10,132,Pithe,Crackers & Crisps,0.02716431
+4,131,Pantua,Crackers & Crisps,0.026911318
+15,132,Pithe,Crackers & Crisps,0.026709855
+20,131,Pantua,Crackers & Crisps,0.026526988
+5,131,Pantua,Crackers & Crisps,0.026323915
+30,132,Pithe,Crackers & Crisps,0.026062667
+1,131,Pantua,Crackers & Crisps,0.02594766
+3,131,Pantua,Crackers & Crisps,0.025203705
+4,132,Pithe,Crackers & Crisps,0.025121689
+5,132,Pithe,Crackers & Crisps,0.02490285
+20,132,Pithe,Crackers & Crisps,0.024827719
+1,132,Pithe,Crackers & Crisps,0.024403036
+3,132,Pithe,Crackers & Crisps,0.023829997
+40,131,Pantua,Crackers & Crisps,0.02365753
+25,131,Pantua,Crackers & Crisps,0.023573816
+40,132,Pithe,Crackers & Crisps,0.02242291
+25,132,Pithe,Crackers & Crisps,0.022344738
+10,113,Nankhatai,Jerky,0.021524668
+10,129,Mihidana,Hard Pretzels Snack Mixes,0.021431863
+15,113,Nankhatai,Jerky,0.02113524
+30,113,Nankhatai,Jerky,0.02080375
+15,129,Mihidana,Hard Pretzels Snack Mixes,0.020714343
+30,129,Mihidana,Hard Pretzels Snack Mixes,0.02060303
+4,113,Nankhatai,Jerky,0.020180196
+5,113,Nankhatai,Jerky,0.01979804
+10,104,Ghevar,Crackers & Crisps,0.019741505
+20,113,Nankhatai,Jerky,0.019728005
+4,129,Mihidana,Hard Pretzels Snack Mixes,0.019726127
+1,113,Nankhatai,Jerky,0.019451857
+15,104,Ghevar,Crackers & Crisps,0.019440085
+5,129,Mihidana,Hard Pretzels Snack Mixes,0.019413829
+20,129,Mihidana,Hard Pretzels Snack Mixes,0.019381046
+30,104,Ghevar,Crackers & Crisps,0.01902321
+1,129,Mihidana,Hard Pretzels Snack Mixes,0.019004047
+3,113,Nankhatai,Jerky,0.018976688
+3,129,Mihidana,Hard Pretzels Snack Mixes,0.018455416
+4,104,Ghevar,Crackers & Crisps,0.018444747
+15,116,Rabri,Bars & Balls,0.018418849
+10,101,Balu shahi,Crackers & Crisps,0.018373787
+10,116,Rabri,Bars & Balls,0.018305331
+10,108,Kaju katli,Crackers & Crisps,0.018253326
+20,104,Ghevar,Crackers & Crisps,0.01824075
+5,104,Ghevar,Crackers & Crisps,0.018179893
+10,105,Gulab jamun,Cookies & Baked Goods,0.018100739
+15,108,Kaju katli,Crackers & Crisps,0.017942041
+15,101,Balu shahi,Crackers & Crisps,0.017906785
+40,113,Nankhatai,Jerky,0.017863542
+1,104,Ghevar,Crackers & Crisps,0.017806143
+25,113,Nankhatai,Jerky,0.017800689
+15,105,Gulab jamun,Cookies & Baked Goods,0.017714113
+30,108,Kaju katli,Crackers & Crisps,0.017709732
+30,116,Rabri,Bars & Balls,0.017614841
+30,105,Gulab jamun,Cookies & Baked Goods,0.017490268
+3,104,Ghevar,Crackers & Crisps,0.01743868
+30,101,Balu shahi,Crackers & Crisps,0.017390758
+40,129,Mihidana,Hard Pretzels Snack Mixes,0.017258137
+25,129,Mihidana,Hard Pretzels Snack Mixes,0.017192394
+4,105,Gulab jamun,Cookies & Baked Goods,0.017070532
+4,108,Kaju katli,Crackers & Crisps,0.017038673
+4,116,Rabri,Bars & Balls,0.016929477
+10,120,Sohan papdi,Hard Pretzels Snack Mixes,0.016928792
+4,101,Balu shahi,Crackers & Crisps,0.016919672
+20,116,Rabri,Bars & Balls,0.01676178
+5,108,Kaju katli,Crackers & Crisps,0.016721427
+20,108,Kaju katli,Crackers & Crisps,0.01671186
+5,101,Balu shahi,Crackers & Crisps,0.01661101
+20,101,Balu shahi,Crackers & Crisps,0.016591072
+20,105,Gulab jamun,Cookies & Baked Goods,0.016558856
+5,105,Gulab jamun,Cookies & Baked Goods,0.016550034
+15,120,Sohan papdi,Hard Pretzels Snack Mixes,0.016538888
+5,116,Rabri,Bars & Balls,0.016482621
+10,127,Lyangcha,Dehydrated Fruit Popcorn,0.016471118
+1,108,Kaju katli,Crackers & Crisps,0.016379118
+40,104,Ghevar,Crackers & Crisps,0.01633519
+1,116,Rabri,Bars & Balls,0.016334623
+30,120,Sohan papdi,Hard Pretzels Snack Mixes,0.016279072
+25,104,Ghevar,Crackers & Crisps,0.016276538
+1,101,Balu shahi,Crackers & Crisps,0.016262293
+1,105,Gulab jamun,Cookies & Baked Goods,0.016214907
+15,127,Lyangcha,Dehydrated Fruit Popcorn,0.016034245
+3,108,Kaju katli,Crackers & Crisps,0.015956104
+30,127,Lyangcha,Dehydrated Fruit Popcorn,0.015949607
+3,116,Rabri,Bars & Balls,0.015890121
+10,140,Chikki,Jerky,0.015826076
+3,101,Balu shahi,Crackers & Crisps,0.015808731
+4,120,Sohan papdi,Hard Pretzels Snack Mixes,0.015743375
+3,105,Gulab jamun,Cookies & Baked Goods,0.015730709
+10,107,Jalebi,Dehydrated Fruit Popcorn,0.015677959
+15,140,Chikki,Jerky,0.015506327
+5,120,Sohan papdi,Hard Pretzels Snack Mixes,0.015475392
+20,120,Sohan papdi,Hard Pretzels Snack Mixes,0.015458882
+10,119,Sohan halwa,Puffs,0.015337646
+15,107,Jalebi,Dehydrated Fruit Popcorn,0.015299737
+4,127,Lyangcha,Dehydrated Fruit Popcorn,0.015274882
+30,140,Chikki,Jerky,0.015227735
+1,120,Sohan papdi,Hard Pretzels Snack Mixes,0.0151546
+15,119,Sohan halwa,Puffs,0.014999986
+20,127,Lyangcha,Dehydrated Fruit Popcorn,0.014996737
+5,127,Lyangcha,Dehydrated Fruit Popcorn,0.014947057
+30,107,Jalebi,Dehydrated Fruit Popcorn,0.014934272
+40,108,Kaju katli,Crackers & Crisps,0.014924854
+25,108,Kaju katli,Crackers & Crisps,0.014867723
+3,120,Sohan papdi,Hard Pretzels Snack Mixes,0.014787614
+40,116,Rabri,Bars & Balls,0.014786065
+40,101,Balu shahi,Crackers & Crisps,0.0147385
+25,116,Rabri,Bars & Balls,0.014727116
+30,119,Sohan halwa,Puffs,0.014699668
+40,105,Gulab jamun,Cookies & Baked Goods,0.014688164
+25,101,Balu shahi,Crackers & Crisps,0.01467675
+1,127,Lyangcha,Dehydrated Fruit Popcorn,0.014644861
+4,140,Chikki,Jerky,0.014641315
+25,105,Gulab jamun,Cookies & Baked Goods,0.014628738
+20,140,Chikki,Jerky,0.014438689
+4,107,Jalebi,Dehydrated Fruit Popcorn,0.014397144
+5,140,Chikki,Jerky,0.014356375
+3,127,Lyangcha,Dehydrated Fruit Popcorn,0.014188468
+4,119,Sohan halwa,Puffs,0.014185369
+10,117,Sheera,Puffs,0.014128149
+20,107,Jalebi,Dehydrated Fruit Popcorn,0.014118642
+5,107,Jalebi,Dehydrated Fruit Popcorn,0.014103293
+1,140,Chikki,Jerky,0.014024764
+20,119,Sohan halwa,Puffs,0.013896436
+40,120,Sohan papdi,Hard Pretzels Snack Mixes,0.013886452
+5,119,Sohan halwa,Puffs,0.013880432
+25,120,Sohan papdi,Hard Pretzels Snack Mixes,0.013837695
+10,123,Chhena poda,Dehydrated Fruit Popcorn,0.013835579
+15,117,Sheera,Puffs,0.013811499
+1,107,Jalebi,Dehydrated Fruit Popcorn,0.013807237
+3,140,Chikki,Jerky,0.013631016
+1,119,Sohan halwa,Puffs,0.013579488
+30,117,Sheera,Puffs,0.013571292
+15,123,Chhena poda,Dehydrated Fruit Popcorn,0.013542026
+10,102,Boondi,Jerky,0.013445973
+3,107,Jalebi,Dehydrated Fruit Popcorn,0.013401866
+30,123,Chhena poda,Dehydrated Fruit Popcorn,0.0132595
+40,127,Lyangcha,Dehydrated Fruit Popcorn,0.013244778
+15,102,Boondi,Jerky,0.013200551
+25,127,Lyangcha,Dehydrated Fruit Popcorn,0.013195306
+3,119,Sohan halwa,Puffs,0.013192326
+4,117,Sheera,Puffs,0.013080388
+30,102,Boondi,Jerky,0.012954086
+20,117,Sheera,Puffs,0.012796819
+5,117,Sheera,Puffs,0.012778521
+4,123,Chhena poda,Dehydrated Fruit Popcorn,0.012746006
+10,109,Kalakand,Dehydrated Fruit Popcorn,0.012689143
+40,140,Chikki,Jerky,0.012657374
+25,140,Chikki,Jerky,0.012608111
+20,123,Chhena poda,Dehydrated Fruit Popcorn,0.012591183
+1,117,Sheera,Puffs,0.012508929
+5,123,Chhena poda,Dehydrated Fruit Popcorn,0.012467712
+4,102,Boondi,Jerky,0.012450278
+40,107,Jalebi,Dehydrated Fruit Popcorn,0.012437373
+10,115,Phirni,Dehydrated Fruit Popcorn,0.012431026
+15,109,Kalakand,Dehydrated Fruit Popcorn,0.012426496
+25,107,Jalebi,Dehydrated Fruit Popcorn,0.012385845
+40,119,Sohan halwa,Puffs,0.012263954
+20,102,Boondi,Jerky,0.012230217
+1,123,Chhena poda,Dehydrated Fruit Popcorn,0.012215257
+25,119,Sohan halwa,Puffs,0.012214154
+15,115,Phirni,Dehydrated Fruit Popcorn,0.012166023
+30,109,Kalakand,Dehydrated Fruit Popcorn,0.012164325
+3,117,Sheera,Puffs,0.012148917
+5,102,Boondi,Jerky,0.012129575
+1,102,Boondi,Jerky,0.011975795
+30,115,Phirni,Dehydrated Fruit Popcorn,0.011913717
+3,123,Chhena poda,Dehydrated Fruit Popcorn,0.011849254
+4,109,Kalakand,Dehydrated Fruit Popcorn,0.011676133
+3,102,Boondi,Jerky,0.011538386
+20,109,Kalakand,Dehydrated Fruit Popcorn,0.011499226
+4,115,Phirni,Dehydrated Fruit Popcorn,0.011476636
+10,138,Ariselu,Jerky,0.011438459
+5,109,Kalakand,Dehydrated Fruit Popcorn,0.011437923
+40,117,Sheera,Puffs,0.011296034
+20,115,Phirni,Dehydrated Fruit Popcorn,0.011267901
+25,117,Sheera,Puffs,0.01125136
+5,115,Phirni,Dehydrated Fruit Popcorn,0.011229962
+1,109,Kalakand,Dehydrated Fruit Popcorn,0.011178196
+15,138,Ariselu,Jerky,0.011096835
+1,115,Phirni,Dehydrated Fruit Popcorn,0.011018425
+40,123,Chhena poda,Dehydrated Fruit Popcorn,0.010981351
+10,130,Misti doi,Puffs,0.010966212
+10,124,Cham cham,Crackers & Crisps,0.010945529
+25,123,Chhena poda,Dehydrated Fruit Popcorn,0.010936528
+30,138,Ariselu,Jerky,0.010888904
+3,109,Kalakand,Dehydrated Fruit Popcorn,0.010875374
+10,139,Bandar laddu,Hard Pretzels Snack Mixes,0.010793
+40,102,Boondi,Jerky,0.010712206
+3,115,Phirni,Dehydrated Fruit Popcorn,0.010695845
+25,102,Boondi,Jerky,0.010667712
+15,130,Misti doi,Puffs,0.010651946
+15,124,Cham cham,Crackers & Crisps,0.010645539
+15,139,Bandar laddu,Hard Pretzels Snack Mixes,0.010478318
+30,124,Cham cham,Crackers & Crisps,0.010474771
+4,138,Ariselu,Jerky,0.010463834
+30,130,Misti doi,Puffs,0.010406077
+30,139,Bandar laddu,Hard Pretzels Snack Mixes,0.010293186
+20,138,Ariselu,Jerky,0.010257095
+5,138,Ariselu,Jerky,0.010252237
+4,124,Cham cham,Crackers & Crisps,0.010089546
+40,109,Kalakand,Dehydrated Fruit Popcorn,0.010064691
+25,109,Kalakand,Dehydrated Fruit Popcorn,0.010022759
+4,130,Misti doi,Puffs,0.010014683
+1,138,Ariselu,Jerky,0.010003358
+40,115,Phirni,Dehydrated Fruit Popcorn,0.009946048
+25,115,Phirni,Dehydrated Fruit Popcorn,0.009906858
+5,124,Cham cham,Crackers & Crisps,0.009905249
+4,139,Bandar laddu,Hard Pretzels Snack Mixes,0.00988403
+20,124,Cham cham,Crackers & Crisps,0.009877086
+20,130,Misti doi,Puffs,0.00987044
+10,134,Ras malai,Jerky,0.009824067
+5,130,Misti doi,Puffs,0.009768933
+10,137,Adhirasam,Hard Pretzels Snack Mixes,0.009687871
+3,138,Ariselu,Jerky,0.00968653
+5,139,Bandar laddu,Hard Pretzels Snack Mixes,0.009662211
+1,124,Cham cham,Crackers & Crisps,0.009657741
+20,139,Bandar laddu,Hard Pretzels Snack Mixes,0.009647131
+10,111,Laddu,Bars & Balls,0.00959003
+15,134,Ras malai,Jerky,0.009566575
+1,130,Misti doi,Puffs,0.009540081
+10,112,Lassi,Jerky,0.009456992
+15,137,Adhirasam,Hard Pretzels Snack Mixes,0.009433806
+1,139,Bandar laddu,Hard Pretzels Snack Mixes,0.00943318
+3,124,Cham cham,Crackers & Crisps,0.00938347
+30,134,Ras malai,Jerky,0.009368807
+30,137,Adhirasam,Hard Pretzels Snack Mixes,0.009259105
+15,112,Lassi,Jerky,0.009240747
+3,130,Misti doi,Puffs,0.009227037
+15,111,Laddu,Bars & Balls,0.009188473
+3,139,Bandar laddu,Hard Pretzels Snack Mixes,0.009126812
+30,111,Laddu,Bars & Balls,0.009030819
+30,112,Lassi,Jerky,0.009030372
+4,134,Ras malai,Jerky,0.008981645
+40,138,Ariselu,Jerky,0.008957982
+25,138,Ariselu,Jerky,0.008918583
+10,103,Gajar ka halwa,Bars & Balls,0.008885384
+4,137,Adhirasam,Hard Pretzels Snack Mixes,0.008846551
+20,134,Ras malai,Jerky,0.008775681
+5,134,Ras malai,Jerky,0.008748263
+40,124,Cham cham,Crackers & Crisps,0.008721709
+25,124,Cham cham,Crackers & Crisps,0.008686751
+5,137,Adhirasam,Hard Pretzels Snack Mixes,0.008655548
+4,112,Lassi,Jerky,0.008654684
+20,137,Adhirasam,Hard Pretzels Snack Mixes,0.008648247
+4,111,Laddu,Bars & Balls,0.008640766
+15,103,Gajar ka halwa,Bars & Balls,0.00861752
+10,122,Chhena kheeri,Bars & Balls,0.008615345
+1,134,Ras malai,Jerky,0.008530676
+30,103,Gajar ka halwa,Bars & Balls,0.008487642
+40,130,Misti doi,Puffs,0.008479446
+20,112,Lassi,Jerky,0.008459121
+5,112,Lassi,Jerky,0.008454949
+1,137,Adhirasam,Hard Pretzels Snack Mixes,0.008453548
+40,139,Bandar laddu,Hard Pretzels Snack Mixes,0.0084503
+5,111,Laddu,Bars & Balls,0.008444727
+25,130,Misti doi,Puffs,0.008442819
+20,111,Laddu,Bars & Balls,0.008441836
+15,122,Chhena kheeri,Bars & Balls,0.008421183
+25,139,Bandar laddu,Hard Pretzels Snack Mixes,0.008414507
+1,111,Laddu,Bars & Balls,0.008282304
+10,133,Rasabali,Hard Pretzels Snack Mixes,0.008281678
+3,134,Ras malai,Jerky,0.008260042
+1,112,Lassi,Jerky,0.008247733
+30,122,Chhena kheeri,Bars & Balls,0.008220077
+3,137,Adhirasam,Hard Pretzels Snack Mixes,0.008181363
+15,133,Rasabali,Hard Pretzels Snack Mixes,0.008102834
+4,103,Gajar ka halwa,Bars & Balls,0.008092701
+3,111,Laddu,Bars & Balls,0.008041143
+3,112,Lassi,Jerky,0.007969797
+20,103,Gajar ka halwa,Bars & Balls,0.007964045
+10,118,Singori,Granola Chips,0.007959902
+30,133,Rasabali,Hard Pretzels Snack Mixes,0.007939518
+5,103,Gajar ka halwa,Bars & Balls,0.007935375
+4,122,Chhena kheeri,Bars & Balls,0.007900536
+15,118,Singori,Granola Chips,0.007749915
+20,122,Chhena kheeri,Bars & Balls,0.007741749
+1,103,Gajar ka halwa,Bars & Balls,0.007726491
+5,122,Chhena kheeri,Bars & Balls,0.007715553
+10,128,Malapua,Jerky,0.007632911
+4,133,Rasabali,Hard Pretzels Snack Mixes,0.00763014
+40,134,Ras malai,Jerky,0.007595539
+30,118,Singori,Granola Chips,0.007583916
+25,134,Ras malai,Jerky,0.007560521
+40,137,Adhirasam,Hard Pretzels Snack Mixes,0.007548034
+1,122,Chhena kheeri,Bars & Balls,0.007543206
+25,137,Adhirasam,Hard Pretzels Snack Mixes,0.007513791
+5,133,Rasabali,Hard Pretzels Snack Mixes,0.007487893
+3,103,Gajar ka halwa,Bars & Balls,0.007464409
+40,111,Laddu,Bars & Balls,0.007453501
+20,133,Rasabali,Hard Pretzels Snack Mixes,0.007450223
+25,111,Laddu,Bars & Balls,0.007420987
+15,128,Malapua,Jerky,0.007420898
+40,112,Lassi,Jerky,0.007336527
+25,112,Lassi,Jerky,0.007303447
+1,133,Rasabali,Hard Pretzels Snack Mixes,0.007298678
+3,122,Chhena kheeri,Bars & Balls,0.007296741
+30,128,Malapua,Jerky,0.007262707
+4,118,Singori,Granola Chips,0.007262439
+20,118,Singori,Granola Chips,0.007110953
+5,118,Singori,Granola Chips,0.007096201
+3,133,Rasabali,Hard Pretzels Snack Mixes,0.007087231
+4,128,Malapua,Jerky,0.006954849
+1,118,Singori,Granola Chips,0.006934345
+40,103,Gajar ka halwa,Bars & Balls,0.0068717
+25,103,Gajar ka halwa,Bars & Balls,0.006840825
+20,128,Malapua,Jerky,0.006800771
+5,128,Malapua,Jerky,0.00679338
+40,122,Chhena kheeri,Bars & Balls,0.006730229
+3,118,Singori,Granola Chips,0.006711781
+25,122,Chhena kheeri,Bars & Balls,0.006700039
+1,128,Malapua,Jerky,0.006625146
+40,133,Rasabali,Hard Pretzels Snack Mixes,0.006579131
+25,133,Rasabali,Hard Pretzels Snack Mixes,0.006551594
+10,126,Ledikeni,Hard Pretzels Snack Mixes,0.006521583
+3,128,Malapua,Jerky,0.006409884
+10,110,Kheer,Dehydrated Fruit Popcorn,0.006353319
+15,126,Ledikeni,Hard Pretzels Snack Mixes,0.006338537
+30,126,Ledikeni,Hard Pretzels Snack Mixes,0.006201834
+40,118,Singori,Granola Chips,0.00618723
+15,110,Kheer,Dehydrated Fruit Popcorn,0.006163448
+25,118,Singori,Granola Chips,0.006159663
+30,110,Kheer,Dehydrated Fruit Popcorn,0.006015897
+4,126,Ledikeni,Hard Pretzels Snack Mixes,0.005924135
+40,128,Malapua,Jerky,0.005895346
+25,128,Malapua,Jerky,0.005868435
+20,126,Ledikeni,Hard Pretzels Snack Mixes,0.005801588
+5,126,Ledikeni,Hard Pretzels Snack Mixes,0.005779535
+4,110,Kheer,Dehydrated Fruit Popcorn,0.005732715
+1,126,Ledikeni,Hard Pretzels Snack Mixes,0.005634785
+20,110,Kheer,Dehydrated Fruit Popcorn,0.005618781
+5,110,Kheer,Dehydrated Fruit Popcorn,0.005587369
+10,143,Gavvalu,Crackers & Crisps,0.005485266
+3,126,Ledikeni,Hard Pretzels Snack Mixes,0.005437046
+1,110,Kheer,Dehydrated Fruit Popcorn,0.005435497
+15,143,Gavvalu,Crackers & Crisps,0.005324751
+3,110,Kheer,Dehydrated Fruit Popcorn,0.005242497
+30,143,Gavvalu,Crackers & Crisps,0.005206287
+40,126,Ledikeni,Hard Pretzels Snack Mixes,0.004983068
+4,143,Gavvalu,Crackers & Crisps,0.004973412
+25,126,Ledikeni,Hard Pretzels Snack Mixes,0.004960209
+20,143,Gavvalu,Crackers & Crisps,0.004858613
+5,143,Gavvalu,Crackers & Crisps,0.004852146
+40,110,Kheer,Dehydrated Fruit Popcorn,0.004779995
+25,110,Kheer,Dehydrated Fruit Popcorn,0.004755676
+1,143,Gavvalu,Crackers & Crisps,0.004723579
+3,143,Gavvalu,Crackers & Crisps,0.004556745
+10,145,Kuzhi paniyaram,Jerky,0.004216671
+10,141,Dharwad pedha,Cookies & Baked Goods,0.004168123
+40,143,Gavvalu,Crackers & Crisps,0.004167765
+25,143,Gavvalu,Crackers & Crisps,0.004147261
+15,145,Kuzhi paniyaram,Jerky,0.004090935
+15,141,Dharwad pedha,Cookies & Baked Goods,0.004043818
+30,145,Kuzhi paniyaram,Jerky,0.003995329
+30,141,Dharwad pedha,Cookies & Baked Goods,0.003947616
+10,142,Double ka meetha,Crackers & Crisps,0.003907979
+4,145,Kuzhi paniyaram,Jerky,0.003810734
+15,142,Double ka meetha,Crackers & Crisps,0.003780663
+4,141,Dharwad pedha,Cookies & Baked Goods,0.003764033
+20,145,Kuzhi paniyaram,Jerky,0.003719717
+5,145,Kuzhi paniyaram,Jerky,0.003713518
+30,142,Double ka meetha,Crackers & Crisps,0.003682196
+20,141,Dharwad pedha,Cookies & Baked Goods,0.003673762
+5,141,Dharwad pedha,Cookies & Baked Goods,0.003666937
+1,145,Kuzhi paniyaram,Jerky,0.003612429
+10,149,Poornalu,Hard Pretzels Snack Mixes,0.003573919
+1,141,Dharwad pedha,Cookies & Baked Goods,0.003566057
+10,147,Obbattu holige,Cookies & Baked Goods,0.003552467
+4,142,Double ka meetha,Crackers & Crisps,0.003496409
+3,145,Kuzhi paniyaram,Jerky,0.003480285
+15,149,Poornalu,Hard Pretzels Snack Mixes,0.003464138
+15,147,Obbattu holige,Cookies & Baked Goods,0.003437042
+3,141,Dharwad pedha,Cookies & Baked Goods,0.003434807
+20,142,Double ka meetha,Crackers & Crisps,0.003405184
+5,142,Double ka meetha,Crackers & Crisps,0.003399998
+30,149,Poornalu,Hard Pretzels Snack Mixes,0.003377824
+30,147,Obbattu holige,Cookies & Baked Goods,0.003347933
+1,142,Double ka meetha,Crackers & Crisps,0.003296822
+4,149,Poornalu,Hard Pretzels Snack Mixes,0.003214178
+4,147,Obbattu holige,Cookies & Baked Goods,0.003178686
+40,145,Kuzhi paniyaram,Jerky,0.003173232
+3,142,Double ka meetha,Crackers & Crisps,0.00316444
+10,146,Mysore pak,Hard Pretzels Snack Mixes,0.003164232
+25,145,Kuzhi paniyaram,Jerky,0.00315702
+20,149,Poornalu,Hard Pretzels Snack Mixes,0.003134261
+40,141,Dharwad pedha,Cookies & Baked Goods,0.003129244
+5,149,Poornalu,Hard Pretzels Snack Mixes,0.003127843
+25,141,Dharwad pedha,Cookies & Baked Goods,0.00311318
+20,147,Obbattu holige,Cookies & Baked Goods,0.00309509
+10,148,Palathalikalu,Bars & Balls,0.0030922
+5,147,Obbattu holige,Cookies & Baked Goods,0.003090441
+15,146,Mysore pak,Hard Pretzels Snack Mixes,0.003059715
+1,149,Poornalu,Hard Pretzels Snack Mixes,0.003037919
+1,147,Obbattu holige,Cookies & Baked Goods,0.002997309
+15,148,Palathalikalu,Bars & Balls,0.002990365
+30,146,Mysore pak,Hard Pretzels Snack Mixes,0.002975851
+3,149,Poornalu,Hard Pretzels Snack Mixes,0.002921328
+30,148,Palathalikalu,Bars & Balls,0.002912223
+3,147,Obbattu holige,Cookies & Baked Goods,0.002876997
+10,114,Petha,Granola Chips,0.002863646
+40,142,Double ka meetha,Crackers & Crisps,0.002858251
+25,142,Double ka meetha,Crackers & Crisps,0.002842277
+4,146,Mysore pak,Hard Pretzels Snack Mixes,0.002819717
+15,114,Petha,Granola Chips,0.002765656
+4,148,Palathalikalu,Bars & Balls,0.002763718
+10,150,Pongal,Puffs,0.002758091
+20,146,Mysore pak,Hard Pretzels Snack Mixes,0.002743185
+5,146,Mysore pak,Hard Pretzels Snack Mixes,0.002737224
+30,114,Petha,Granola Chips,0.002695471
+20,148,Palathalikalu,Bars & Balls,0.002690107
+5,148,Palathalikalu,Bars & Balls,0.002685815
+15,150,Pongal,Puffs,0.002668398
+1,146,Mysore pak,Hard Pretzels Snack Mixes,0.002651453
+40,149,Poornalu,Hard Pretzels Snack Mixes,0.002650816
+25,149,Poornalu,Hard Pretzels Snack Mixes,0.002636618
+1,148,Palathalikalu,Bars & Balls,0.002604574
+30,150,Pongal,Puffs,0.002600561
+40,147,Obbattu holige,Cookies & Baked Goods,0.002599001
+25,147,Obbattu holige,Cookies & Baked Goods,0.002584428
+10,144,Kakinada khaja,Crackers & Crisps,0.002559155
+4,114,Petha,Granola Chips,0.002550691
+3,146,Mysore pak,Hard Pretzels Snack Mixes,0.002540559
+3,148,Palathalikalu,Bars & Balls,0.002499133
+20,114,Petha,Granola Chips,0.002483726
+5,114,Petha,Granola Chips,0.002477706
+4,150,Pongal,Puffs,0.002471211
+15,144,Kakinada khaja,Crackers & Crisps,0.002470911
+20,150,Pongal,Puffs,0.002406693
+30,144,Kakinada khaja,Crackers & Crisps,0.002403915
+1,114,Petha,Granola Chips,0.002403855
+5,150,Pongal,Puffs,0.002403531
+1,150,Pongal,Puffs,0.002333156
+3,114,Petha,Granola Chips,0.002303004
+40,146,Mysore pak,Hard Pretzels Snack Mixes,0.002285302
+4,144,Kakinada khaja,Crackers & Crisps,0.002275884
+25,146,Mysore pak,Hard Pretzels Snack Mixes,0.00227201
+40,148,Palathalikalu,Bars & Balls,0.002255738
+25,148,Palathalikalu,Bars & Balls,0.002242893
+3,150,Pongal,Puffs,0.002241172
+20,144,Kakinada khaja,Crackers & Crisps,0.002212614
+5,144,Kakinada khaja,Crackers & Crisps,0.002209187
+1,144,Kakinada khaja,Crackers & Crisps,0.00213936
+40,114,Petha,Granola Chips,0.002075672
+25,114,Petha,Granola Chips,0.002063721
+3,144,Kakinada khaja,Crackers & Crisps,0.00204885
+40,150,Pongal,Puffs,0.002028317
+25,150,Pongal,Puffs,0.00201713
+40,144,Kakinada khaja,Crackers & Crisps,0.00184083
+25,144,Kakinada khaja,Crackers & Crisps,0.001829922
